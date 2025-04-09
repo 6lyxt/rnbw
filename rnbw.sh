@@ -24,7 +24,7 @@ rainbow_text() {
 }
 
 if [ -z "$1" ]; then
-  echo "Usage: rainbow <command> [arguments...]"
+  echo "Usage: rnbw <command> [arguments...]"
   exit 1
 fi
 
